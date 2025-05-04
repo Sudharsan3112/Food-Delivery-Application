@@ -87,9 +87,9 @@ Menu of 🍔🍕Mom's Delight 🤱:
 Choose your order: 1
 Choose number of items required: 2
 Order Summary:
-Customer: Sudharsan
-Address: sudharsan.rick@gmail.com
-Restaurant: Mom's Delight 🤱
-Enjoy your delight food 🥤🍟🍔Pizza
+Customer: Sudharsan |
+Address: sudharsan.rick@gmail.com |
+Restaurant: Mom's Delight 🤱 |
+Enjoy your delight food 🥤🍟🍔Pizza |
 Total Price: $17.98
 
